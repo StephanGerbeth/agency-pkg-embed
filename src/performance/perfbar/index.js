@@ -1,6 +1,6 @@
 "use strict";
 
-var script = require('../script');
+var script = require('../../script');
 
 if(isPerfbarEnabled()) {
     initScript();
